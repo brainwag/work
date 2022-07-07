@@ -1,7 +1,5 @@
-/* Font Import */
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Quicksand:wght@400;700&display=swap');
-
 /* Work Samples CSS */
+
 h1, h2, h3 {font-family: 'Bangers', cursive;}
 p, li {font-family: 'Quicksand', sans-serif; font-weight:400;}
 strong {font-family: font-weight:700;}

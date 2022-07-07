@@ -1,2 +1,2 @@
 /* Work Samples CSS */
-img {width:180px;}
+.samples img {width:180px; display:inline-block; padding:12px;}

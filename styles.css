@@ -1,7 +1,9 @@
 /* Work Samples CSS */
 
-h1, h2, h3, h4, h5, h6 {font-family: 'Quicksand', sans-serif; font-weight:700;}
-.whamo {font-family: 'Bangers', cursive; font-size:48px;}
+h1, h2, h3, h4, h5, h6 {font-family: 'Merriweather', serif; font-weight:700;}
+.pageHeader {font-weight:900;}
+.whamo {font-family: 'Bangers', cursive;}
 p, li {font-family: 'Quicksand', sans-serif; font-weight:400;}
-strong {font-family: 'Quicksand', sans-serif; font-weight:700;}
+strong {font-weight:700;}
 .samples img {width:180px; display:inline-block; padding:12px;}
+blockquote {font-family: 'Merriweather', serif; font-weight:300; font-style:italic;}

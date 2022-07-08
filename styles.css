@@ -1,5 +1,6 @@
-/* Work Samples CSS */
+/* CSS - Brian Wagner */
 
+/** Typography **/
 h1, h2, h3, h4, h5, h6 {font-family: 'Merriweather', serif; font-weight:700;}
 p, li {font-family: 'Quicksand', sans-serif; font-weight:400;}
 blockquote {font-family: 'Merriweather', serif; font-weight:300; font-style:italic;}
@@ -8,3 +9,16 @@ strong {font-weight:700;}
 .whamo {font-family: 'Bangers', cursive;}
 .samples img {width:180px; display:inline-block; padding:12px;}
 
+/** Colors **/
+.lavarock {color:#983428;}
+.toytruck {color:#D45741;}
+.sunset {color:#D98043;}
+.sunrise {color:#E3B23A;}
+.deepsea {color:#115161;}
+.supblue {color:#578E95;}
+.endor {color:#6A7B53;}
+.grogoo {color:#BFCBA8;}
+.notblack {color:#48555C;}
+.wetconcrete {color:#7C837F;}
+.stormy {color:#A9B5AE;}
+.bubble {color:#C9D6CF;}
